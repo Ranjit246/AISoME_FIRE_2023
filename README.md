@@ -6,4 +6,4 @@ This repository contains the work done by Ranjit Patro and Asutosh Mishra from t
 
 link to the track details: https://sites.google.com/view/aisome/aisome
 
-In order to use the dataset and code further, make sure to include proper citations as mentioned in the track page. Feel free to reach out if you have any queries over mail at ranjitp20@iiserbpr.ac.in or ranjitpatro200@gmail.com
+In order to use the dataset and code further, make sure to follow instructions as mentioned on the track page. Feel free to reach out if you have any queries over mail at ranjitp20@iiserbpr.ac.in or ranjitpatro200@gmail.com
