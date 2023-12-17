@@ -4,9 +4,9 @@
 
 This repository contains the work done by Ranjit Patro and Asutosh Mishra from the Indian Institute of Science Education & Research Berhampur under the AISoME track for the FIRE 2023 Conference.
 
-link to the track details: https://sites.google.com/view/aisome/aisome
-The draft of the paper can be seen here: https://drive.google.com/file/d/12bIf5EfS_6oIkjw-FKMtnd5RbHKZ5mVL/view?usp=sharing
-Conference Paper Presentation can be found here: http://fire.irsi.res.in/fire/2023/schedule
+1. link to the track details: https://sites.google.com/view/aisome/aisome
+2. The draft of the paper can be seen here: https://drive.google.com/file/d/12bIf5EfS_6oIkjw-FKMtnd5RbHKZ5mVL/view?usp=sharing
+3. Conference Paper Presentation can be found here: http://fire.irsi.res.in/fire/2023/schedule
 
 # Conclusion & Future Work
 1. Threshold based approach improved the accuracy - Applying this and finding minima would be next goal.
